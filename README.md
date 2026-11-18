@@ -248,3 +248,72 @@ En la figura 5 se observa el panel frontal de la máquina, donde se encuentran l
 En cuanto al vaporizador, no fue posible identificarlo durante la práctica, debido a que no se encontraba instalado en el espacio correspondiente de la máquina. Por esta razón, no se realizó una descripción visual de sus características ni de sus mecanismos de regulación. No obstante, se reconoce su importancia dentro del sistema de anestesia, ya que permite incorporar al flujo de gas fresco una concentración controlada del agente anestésico inhalado.
 
 En general, el reconocimiento permitió identificar elementos fundamentales de la máquina WATO EX-20 y relacionar su ubicación con las funciones que cumplen dentro del proceso de suministro de gases y ventilación del paciente.
+
+---
+
+## V. ANÁLISIS DE RESULTADOS
+
+Para el desarrollo de este análisis se tomó como fuente principal el *Manual del usuario de la máquina de anestesia Mindray WATO EX-20*, específicamente el Anexo D, en el cual el fabricante presenta los mensajes de alarma del equipo, sus posibles causas y las acciones recomendadas para cada situación. A partir de esta información se identificaron y organizaron las posibles fallas de los diferentes subsistemas, con el propósito de analizar su funcionamiento y establecer una clasificación según la cantidad de alarmas asociadas [4].
+
+### 5.1. Análisis de las posibles fallas en los subsistemas de la máquina de anestesia
+
+La revisión del manual de usuario de la máquina de anestesia Mindray WATO EX-20 permitió identificar diferentes situaciones que pueden afectar su funcionamiento. Estas se encuentran descritas principalmente en el Anexo D, donde se presentan los mensajes de alarma, sus posibles causas y las acciones recomendadas por el fabricante. A partir de esta información, las fallas se organizaron de acuerdo con el subsistema al que se relacionan, teniendo en cuenta que una misma alarma puede involucrar varios componentes.
+
+**a) Subsistema de ventilación.** Este subsistema concentra una parte importante de las alarmas descritas en el manual, debido a que interviene directamente en el control y suministro de la ventilación al paciente. Entre las fallas identificadas se encuentran los errores de hardware del ventilador, problemas de comunicación entre sus módulos y el sistema principal, así como dificultades en el funcionamiento de las válvulas inspiratoria, PEEP y de seguridad PEEP.
+
+También pueden presentarse errores durante el autotest del ventilador o fallas en el control de las válvulas. Estas situaciones pueden impedir que el equipo regule adecuadamente la presión y el flujo de los gases durante el ciclo respiratorio. Por esta razón, el fabricante contempla el uso de ventilación manual como medida de apoyo ante determinadas alarmas, mientras se verifica la causa del problema y se solicita asistencia técnica cuando corresponde.
+
+**b) Sensores y sistema de monitorización.** Los sensores permiten obtener información sobre las condiciones del sistema respiratorio y la concentración de oxígeno, por lo que su funcionamiento es fundamental para la supervisión de la ventilación. El manual contempla fallas relacionadas con el sensor de oxígeno, el sensor de flujo y el canal de monitorización de presión.
+
+Entre las causas señaladas se encuentran la desconexión de los sensores, errores de calibración, desviaciones entre las mediciones y el funcionamiento de las válvulas, acumulación de agua y daños físicos. También se contempla la falla del proceso de cero automático. Estas condiciones pueden ocasionar mediciones incorrectas o una disminución en la precisión de los parámetros presentados por el equipo. En consecuencia, se requiere verificar las conexiones, revisar el estado de los sensores y realizar los procedimientos de calibración indicados por el fabricante.
+
+**c) Sistema respiratorio.** El sistema respiratorio comprende los componentes encargados de conducir los gases entre la máquina y el paciente. De acuerdo con el manual, pueden presentarse problemas por conexiones incorrectas, desconexión de las tuberías, fugas o instalación inadecuada de algunos elementos.
+
+Entre las alarmas relacionadas se encuentran la presión de las vías aéreas mantenida por encima del límite, la presión inferior a -10 cmH₂O, la presión inspiratoria no alcanzada y el volumen corriente no alcanzado. Estas situaciones pueden estar asociadas con tubos doblados, obstrucciones, fugas o configuraciones inadecuadas de los parámetros ventilatorios. Asimismo, el equipo puede generar una alarma cuando el recipiente del absorbente de CO₂ no está instalado correctamente. Por tanto, el montaje y la revisión de las conexiones del circuito son aspectos importantes para garantizar su funcionamiento.
+
+**d) Sistema eléctrico y de alimentación.** El funcionamiento de la máquina también depende de la disponibilidad de energía eléctrica y del estado de sus baterías. El manual identifica alarmas relacionadas con batería descargada, batería no detectada, baja tensión y fallas de comunicación o autotest del sistema de alimentación.
+
+Otra condición descrita es el aumento de temperatura de la placa de alimentación por encima del límite establecido por el fabricante. Estas situaciones pueden comprometer la continuidad del funcionamiento del equipo, especialmente cuando se presenta una interrupción de la alimentación eléctrica. Por esta razón, el manual indica la necesidad de conectar la máquina a la red eléctrica cuando la batería presenta un nivel bajo y contempla medidas de respaldo para mantener la ventilación del paciente.
+
+**e) Sistema de suministro de gases.** Este subsistema proporciona los gases necesarios para el funcionamiento de la máquina de anestesia. Entre las alarmas identificadas se encuentran la baja presión del gas de la unidad, la presión insuficiente en el suministro de oxígeno y el flujo de gas fresco demasiado alto.
+
+Estas condiciones pueden afectar la disponibilidad y regulación de los gases que recibe el sistema respiratorio. Una presión de suministro insuficiente puede impedir que la máquina trabaje bajo las condiciones requeridas, mientras que un flujo de gas fresco excesivo puede alterar el funcionamiento esperado del circuito. Por ello, es necesario comprobar las conexiones, la disponibilidad de los gases y los valores de flujo establecidos.
+
+**f) Sistema de calentamiento.** El manual también contempla fallas relacionadas con el módulo de calentamiento, entre ellas errores del termistor, de la resistencia calefactora y de comunicación o autotest del módulo. Además, señala que la condensación de vapor en el sensor puede estar relacionada con una de estas fallas. Aunque este sistema no participa directamente en la generación de los ciclos ventilatorios, sus errores pueden activar alarmas y requerir revisión técnica.
+
+**g) Sistema de control auxiliar.** El módulo de control auxiliar puede presentar errores de hardware, fallas de comunicación con el panel de control principal y problemas durante las pruebas de funcionamiento o los procesos de reinicio. El manual describe errores asociados con componentes internos como CPU, RAM, ROM y watchdog. También contempla fallas en la monitorización de presión y en el control de la válvula de seguridad. Estas condiciones pueden afectar la supervisión y el funcionamiento de mecanismos de protección, por lo que el fabricante recomienda reiniciar el equipo o solicitar asistencia técnica si el problema persiste.
+
+Aunque el vaporizador es un componente fundamental para administrar el agente anestésico, las alarmas técnicas del Anexo D revisadas no presentan una categoría con un número equivalente de mensajes específicos para este elemento. Por esta razón, no se le asignó una cantidad de alarmas en el conteo. Esto no significa que esté exento de fallas: su instalación, llenado, selección del agente anestésico y funcionamiento deben realizarse de acuerdo con las indicaciones del fabricante.
+
+### 5.2. Clasificación de los subsistemas según la cantidad de alarmas asociadas
+
+Para establecer un orden de mayor a menor, se realizó un conteo de las entradas de alarmas técnicas presentadas en el apartado D.2 del Anexo D del manual de usuario. Cada mensaje se asignó al subsistema con el que tiene una relación funcional más directa. Cuando una alarma podía involucrar varios componentes, se clasificó según la causa principal descrita por el fabricante, evitando contabilizar en más de una categoría.
+
+**Tabla 1. Clasificación de las alarmas técnicas según el subsistema de la máquina de anestesia Mindray WATO EX-20.**
+
+| Orden | Subsistema | Número de alarmas |
+|:---:|---|:---:|
+| 1 | Subsistema de ventilación | 18 |
+| 2 | Sensores y sistema de monitorización | 9 |
+| 3 | Sistema respiratorio | 7 |
+| 4 | Sistema de control auxiliar | 7 |
+| 5 | Sistema eléctrico y de alimentación | 4 |
+| 6 | Sistema de calentamiento | 3 |
+| 7 | Sistema de suministro de gases | 3 |
+| | **Total de entradas contabilizadas** | **51** |
+
+*Nota: la clasificación se realizó a partir de las alarmas técnicas del apartado D.2 del Anexo D del manual de usuario [4].*
+
+De acuerdo con el conteo, el subsistema de ventilación presenta la mayor cantidad de alarmas asociadas, con 18 entradas. Esto se relaciona con la variedad de componentes y funciones que intervienen en el proceso ventilatorio, como las válvulas, los módulos electrónicos y los mecanismos encargados de regular las condiciones de presión y flujo. En segundo lugar se encuentran los sensores y el sistema de monitorización, con nueve alarmas, lo que evidencia la importancia de mantener estos elementos correctamente conectados, calibrados y en buen estado.
+
+El sistema respiratorio y el módulo de control auxiliar registran siete alarmas cada uno. En el primer caso, las situaciones se relacionan principalmente con conexiones, fugas, obstrucciones y condiciones inadecuadas del circuito. En el segundo, se presentan errores de hardware, comunicación y monitorización. Por su parte, el sistema eléctrico y de alimentación reúne cuatro alarmas, mientras que los sistemas de calentamiento y suministro de gases presentan tres cada uno.
+
+Es importante aclarar que esta clasificación representa la cantidad de mensajes de alarma documentados en el manual y no la frecuencia real con la que se presentan las fallas durante el uso de la máquina. El fabricante no proporciona en este anexo estadísticas de ocurrencia ni probabilidades de falla. Por lo tanto, el orden permite comparar la cantidad de situaciones de alarma contempladas para cada subsistema, pero no afirmar que uno de ellos falle con mayor frecuencia en condiciones clínicas.
+
+El análisis muestra que la máquina de anestesia WATO EX-20 depende de la interacción de varios subsistemas para mantener condiciones adecuadas de ventilación y suministro de gases. Aunque el ventilador reúne la mayor cantidad de alarmas en el apartado estudiado, esto no significa que sea el único elemento crítico. Los sensores, el circuito respiratorio, la alimentación eléctrica y los módulos de control también cumplen funciones necesarias para la operación segura del equipo.
+
+Además, las alarmas permiten identificar condiciones que pueden afectar tanto el funcionamiento como la confiabilidad de la información presentada al usuario. Por ejemplo, una falla del sensor de flujo puede reducir la precisión de las mediciones, mientras que una fuga o una desconexión del circuito puede impedir que se alcance el volumen corriente configurado. De manera similar, una presión insuficiente de oxígeno o una batería descargada puede comprometer la disponibilidad de recursos necesarios para el funcionamiento de la máquina.
+
+En conjunto, estos resultados resaltan la importancia de realizar las verificaciones previas al uso, comprobar el montaje del sistema respiratorio, revisar las conexiones de gases y verificar el estado de los sensores y de la alimentación eléctrica. También permiten comprender por qué las alarmas no deben interpretarse como simples avisos, sino como mecanismos que orientan la identificación de condiciones anormales y la aplicación de las acciones recomendadas por el fabricante.
+
+---
