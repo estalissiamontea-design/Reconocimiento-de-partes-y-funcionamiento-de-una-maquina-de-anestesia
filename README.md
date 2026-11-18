@@ -156,3 +156,95 @@ El mantenimiento de una máquina de anestesia comprende las actividades de inspe
 El fabricante de la WATO EX-20 establece la realización de pruebas de funcionamiento antes de cada paciente y después de determinados procedimientos de mantenimiento o reparación. Entre las verificaciones contempladas se encuentran las pruebas de suministro de gases, revisión de cilindros, comprobación del sistema de control de flujo, inspección del vaporizador, pruebas de alarmas y evaluación del sistema respiratorio [4].
 
 Estas comprobaciones son necesarias para verificar que el equipo se encuentre en condiciones adecuadas antes de su utilización. Asimismo, permiten reconocer posibles fallas en los diferentes subsistemas y evitar que un dispositivo con resultados de prueba no satisfactorios sea utilizado con un paciente.
+
+---
+
+## III. Metodología
+
+La práctica se desarrolló mediante una metodología demostrativa y de revisión documental, orientada al reconocimiento de los componentes, principios de funcionamiento y procedimientos básicos de mantenimiento de la máquina de anestesia Mindray WATO EX-20. Para ello, se tomó como referencia la explicación de los diferentes subsistemas del equipo, la identificación de sus componentes principales y la consulta del manual de usuario proporcionado por el fabricante.
+
+<p align="center">
+<img width="366" height="383" alt="MaqAne" src="https://github.com/user-attachments/assets/1e89d16a-882d-47c6-81e4-e0bbe456f459" />
+</p>
+
+<p align="center">
+  <em>Figura 1. Máquina de anestesia Mindray WATO EX-20. Tomado de: [4].</em>
+</p>
+
+
+El desarrollo de la actividad se organizó en las siguientes etapas:
+
+**A. Revisión de información técnica y fundamentos teóricos.**
+
+Inicialmente, se realizó una revisión bibliográfica sobre los principios de funcionamiento de las máquinas de anestesia. Se consultaron documentos técnicos y artículos científicos relacionados con los tipos de anestesia, los gases medicinales utilizados, los sistemas de respiración y las modalidades de ventilación mecánica. Adicionalmente, se tomó como referencia el manual de usuario de la Mindray WATO EX-20 para identificar las características particulares del equipo y complementar la información necesaria para el desarrollo de la práctica.
+
+**B. Reconocimiento general de la máquina de anestesia.**
+
+Se abordó la estructura general de la máquina de anestesia WATO EX-20, identificando los principales subsistemas que permiten su funcionamiento. Se consideraron el suministro de gases medicinales, el control de flujo, la unidad de vaporización, el sistema respiratorio, el ventilador y los elementos de monitorización y seguridad. Esta etapa permitió comprender cómo se relacionan los diferentes componentes durante la administración de anestesia y el soporte ventilatorio.
+
+**C. Identificación de los componentes del sistema respiratorio.**
+
+Se estudiaron los elementos que conforman el sistema respiratorio de la máquina, prestando especial atención al vaporizador, la válvula limitadora de presión ajustable (APL), el recipiente absorbente de dióxido de carbono (CO₂) y el fuelle. Para cada componente se revisó su ubicación, función y participación en el proceso de administración de gases y ventilación. En el caso del vaporizador, se identificó el espacio destinado para su instalación, aunque no se encontraba montado durante la práctica.
+
+**D. Revisión de los modos de funcionamiento del ventilador.**
+
+Se consultaron las modalidades de ventilación disponibles en el equipo, particularmente la ventilación controlada por volumen (VCV) y la ventilación controlada por presión (PCV). Se estudiaron sus principios de funcionamiento y los parámetros que intervienen en la programación ventilatoria, como el volumen corriente, la presión inspiratoria, la frecuencia respiratoria y la relación inspiración-espiración. Asimismo, se revisó la función de la pausa inspiratoria y su relación con los parámetros de ventilación.
+
+**E. Consulta de procedimientos de seguridad y mantenimiento.**
+
+Finalmente, se revisaron los procedimientos establecidos por el fabricante para verificar las condiciones de funcionamiento de la máquina de anestesia. Se tuvieron en cuenta las pruebas de suministro de gases, detección de fugas, funcionamiento del sistema respiratorio, revisión de alarmas y condiciones de alimentación eléctrica. También se estudiaron las recomendaciones de mantenimiento preventivo y las medidas de seguridad necesarias para evitar riesgos durante la utilización del equipo.
+
+A partir de estas etapas, se recopiló y organizó la información necesaria para responder las preguntas propuestas en la guía de laboratorio, relacionando los fundamentos teóricos con las características técnicas de la máquina de anestesia WATO EX-20.
+
+## IV. Resultados
+
+Durante la práctica de reconocimiento de la máquina de anestesia Mindray WATO EX-20 se identificaron visualmente algunos de los componentes principales del sistema respiratorio y del suministro de gases. La observación permitió relacionar la disposición física de estos elementos con las funciones descritas en el manual del fabricante.
+
+### 4.1. Identificación de los componentes del sistema respiratorio
+
+<p align="center">
+<img width="900" height="1600" alt="Fig_1" src="https://github.com/user-attachments/assets/d99a870b-41ec-4bcb-95b1-a2d8b37a1954" />
+</p>
+
+<p align="center">
+  <em>Figura 2. Fuelle de ventilación. Tomado de: [elaboración propia].</em>
+</p>
+
+
+En la figura 2 se observa el conjunto del fuelle, ubicado dentro de una cámara transparente que presenta una escala de volumen corriente (VT), graduada desde 300 hasta 1500 mL. Este componente permite observar el desplazamiento del fuelle durante la ventilación mecánica y relacionarlo con el volumen corriente suministrado.
+
+<p align="center">
+<img width="900" height="1600" alt="Fig_2" src="https://github.com/user-attachments/assets/1a0ed73b-a32e-4da8-aec4-ac0b6d13a9bc" />
+</p>
+
+<p align="center">
+  <em>Figura 3. Válvula APL y válvulas unidireccionales del sistema respiratorio. Tomado de: [Elaboración propia]</em>
+</p>
+
+En la figura 2 se identifica la válvula limitadora de presión ajustable (APL), cuya perilla presenta una escala expresada en cmH₂O. Su función es regular la presión dentro del circuito respiratorio durante la ventilación manual, permitiendo liberar el exceso de gas cuando se alcanza el límite establecido. También se observaron dos conjuntos de válvulas transparentes correspondientes a las vías inspiratoria y espiratoria, cuya función es dirigir el flujo de gas en el sentido adecuado y evitar su circulación en dirección contraria.
+
+<p align="center">
+<img width="900" height="1600" alt="Fig_3" src="https://github.com/user-attachments/assets/fd80e31e-4eda-4a22-91a3-85bf4761308c" />
+</p>
+
+<p align="center">
+  <em>Figura 4. Recipiente absorbente de CO₂. Tomada de: [Elaboración propia]</em>
+</p>
+
+En la figura 4 se observa el recipiente absorbente de dióxido de carbono (CO₂), ubicado en el sistema respiratorio. Este componente contiene el material absorbente que permite retirar el CO₂ del gas exhalado antes de que vuelva a circular por el circuito. En su estructura se observa una indicación de temperatura de 134 °C. Sin embargo, esta señal no permite establecer por sí sola que todas las piezas del recipiente sean compatibles con esterilización en autoclave; esta condición debe verificarse en las indicaciones del fabricante.
+
+### 4.2. Reconocimiento del sistema de suministro de gases
+
+<p align="center">
+<img width="900" height="1600" alt="Fig_4" src="https://github.com/user-attachments/assets/563c326d-b7e8-4d53-aad1-62b705707d40" />
+</p>
+
+<p align="center">
+  <em>Figura 5. Panel frontal de suministro de gases y manómetros de la máquina WATO EX-20. Tomado de: [Elaboración propia]</em>
+</p>
+
+En la figura 5 se observa el panel frontal de la máquina, donde se encuentran los flujómetros correspondientes a aire medicinal (AIR), óxido nitroso (N₂O) y oxígeno (O₂). Estos permiten visualizar y regular el flujo de los gases suministrados al sistema de anestesia. En la parte inferior también se identifican los manómetros, que permiten supervisar las presiones de suministro, así como los controles asociados al funcionamiento del equipo.
+
+En cuanto al vaporizador, no fue posible identificarlo durante la práctica, debido a que no se encontraba instalado en el espacio correspondiente de la máquina. Por esta razón, no se realizó una descripción visual de sus características ni de sus mecanismos de regulación. No obstante, se reconoce su importancia dentro del sistema de anestesia, ya que permite incorporar al flujo de gas fresco una concentración controlada del agente anestésico inhalado.
+
+En general, el reconocimiento permitió identificar elementos fundamentales de la máquina WATO EX-20 y relacionar su ubicación con las funciones que cumplen dentro del proceso de suministro de gases y ventilación del paciente.
