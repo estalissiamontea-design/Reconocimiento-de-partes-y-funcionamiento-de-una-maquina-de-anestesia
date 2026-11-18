@@ -317,3 +317,41 @@ Además, las alarmas permiten identificar condiciones que pueden afectar tanto e
 En conjunto, estos resultados resaltan la importancia de realizar las verificaciones previas al uso, comprobar el montaje del sistema respiratorio, revisar las conexiones de gases y verificar el estado de los sensores y de la alimentación eléctrica. También permiten comprender por qué las alarmas no deben interpretarse como simples avisos, sino como mecanismos que orientan la identificación de condiciones anormales y la aplicación de las acciones recomendadas por el fabricante.
 
 ---
+
+## VI. DISCUSIÓN
+
+### 6.1. ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+Los anestésicos utilizados en cirugía varían según el procedimiento, la región del cuerpo que se va a intervenir, la duración de la operación y las condiciones del paciente. De manera general, se emplean anestésicos locales, regionales y generales. En los procedimientos que requieren anestesia local o regional se utilizan principalmente medicamentos como la lidocaína, bupivacaína, ropivacaína y mepivacaína. Estos fármacos bloquean temporalmente la transmisión de los impulsos nerviosos y permiten disminuir o eliminar la sensibilidad en una zona específica del cuerpo. Por ejemplo, la lidocaína suele emplearse en procedimientos de menor duración, mientras que la bupivacaína y la ropivacaína ofrecen una acción más prolongada, por lo que también pueden utilizarse para el control del dolor después de la cirugía [1].
+
+Por otra parte, en la anestesia general se utilizan diferentes medicamentos para conseguir la pérdida de conciencia, la analgesia, la amnesia y la inmovilidad necesarias durante el procedimiento quirúrgico. Entre los agentes intravenosos se encuentran el propofol, el tiopental y el etomidato. También se emplean las benzodiacepinas como medicamentos complementarios, principalmente por sus efectos sedantes y amnésicos. Asimismo, se utilizan opioides, como el fentanilo y el remifentanilo, para controlar el dolor, y bloqueadores neuromusculares cuando se requiere relajación muscular. En cuanto a los anestésicos inhalatorios, se destaca el sevoflurano, utilizado principalmente para el mantenimiento de la anestesia general [1].
+
+Una de las técnicas utilizadas es la anestesia general balanceada, que combina medicamentos administrados por vía intravenosa con agentes inhalatorios. Esta combinación permite complementar los efectos de los diferentes fármacos y alcanzar los objetivos anestésicos sin depender de dosis elevadas de un solo medicamento. Por lo tanto, la selección de los anestésicos no depende únicamente de cuál sea el más utilizado, sino de las necesidades de cada intervención y de la valoración realizada por el equipo de anestesiología.
+
+### 6.2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+La máquina de anestesia Mindray WATO EX-35 presenta características adicionales en comparación con el modelo WATO EX-20, principalmente en la interfaz de usuario, las funciones de monitorización y las opciones de ventilación. Una de las diferencias más visibles es su pantalla táctil de 10,4 pulgadas, mientras que el EX-20 cuenta con una pantalla TFT a color de 7,4 pulgadas. Esta diferencia facilita el acceso a los parámetros y ajustes del equipo, haciendo más sencilla la interacción del personal clínico durante su funcionamiento [4], [5].
+
+Otra diferencia importante es el sistema de alarmas inteligentes del EX-35, que proporciona información detallada en tiempo real para facilitar la identificación de situaciones anormales. Además, incorpora un módulo de análisis de gases anestésicos de tipo *Plug-and-Play*, con identificación automática de cinco agentes anestésicos y óxido nitroso. Esta característica permite ampliar las posibilidades de monitorización de los gases administrados al paciente. En el caso del EX-20, el manual describe el sistema de monitorización de oxígeno y las posibilidades de configuración del equipo mediante módulos y accesorios, por lo que sus funciones pueden variar según el equipamiento disponible [4], [5].
+
+En cuanto a la ventilación, el EX-35 incorpora un ventilador multimodo que ofrece modalidades de ventilación controlada y asistida. También dispone de una función de cambio automático del gas impulsor, diseñada para mantener la ventilación mecánica cuando se presenta una falla en el suministro principal de dicho gas. Adicionalmente, el fabricante destaca la posibilidad de conectividad mediante salida HL7, que facilita la integración del equipo con sistemas de información clínica [5].
+
+De esta manera, el WATO EX-20 ofrece las funciones necesarias para el suministro de gases, la administración de anestésicos y el soporte ventilatorio, mientras que el WATO EX-35 incorpora características adicionales relacionadas con la interfaz, la monitorización de gases anestésicos, las alarmas y la conectividad. Sin embargo, estas diferencias corresponden a las características técnicas de cada modelo y no significan, por sí solas, que uno garantice mejores resultados clínicos que el otro, ya que el desempeño también depende de su configuración, mantenimiento y correcta utilización por parte del personal especializado.
+
+---
+
+## VII. CONCLUSIÓN
+
+La revisión de la máquina de anestesia Mindray WATO EX-20 permitió reconocer que su funcionamiento depende de la correcta integración de los sistemas de suministro de gases, ventilación, respiración, monitorización y alimentación eléctrica. A partir del análisis de las alarmas del fabricante, se identificó que muchas de las fallas pueden originarse por conexiones incorrectas, fugas u obstrucciones en el circuito respiratorio, instalación inadecuada de sus componentes, sensores desconectados o descalibrados y problemas en el suministro de gases o energía eléctrica. Esto demuestra que las fallas no siempre se deben a daños internos del equipo, sino que también pueden estar relacionadas con errores de montaje, mantenimiento o verificación previa. Por esta razón, es fundamental realizar las pruebas de funcionamiento antes de utilizar la máquina, comprobar las conexiones, revisar el estado del circuito respiratorio y verificar la calibración de los sensores, ya que estas acciones permiten detectar condiciones anormales oportunamente y reducir los riesgos durante su operación. Finalmente, complementar el reconocimiento teórico con prácticas supervisadas de verificación y mantenimiento preventivo permitiría fortalecer la capacidad para interpretar las alarmas e identificar las posibles causas de las fallas.
+
+## REFERENCIAS
+
+[1] A. Payo Salvatierra, “Anestesia y sus tipos. Desde su origen hasta la actualidad,” *NPunto*, vol. VII, no. 72, pp. 4-25, mar. 2024.
+
+[2] D. Vandroux, P. Beaulieu y N. Nathan-Denizot, “Aparatos de anestesia,” *EMC - Anestesia-Reanimación*, vol. 52, no. 1, feb. 2026, ref. E-36-100-B-10.
+
+[3] G. Ortiz, C. Dueñas, A. Lara, M. Garay, J. Blanco y G. Díaz Santos, “Bases de ventilación mecánica,” *Acta Colombiana de Cuidado Intensivo*, vol. 13, no. 2, pp. 17-45, 2013.
+
+[4] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., *Manual del usuario: Máquina de anestesia WATO EX-20*. Shenzhen, China: Mindray, 2018.
+
+[5] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-35: Anesthesia Machine,” Mindray. [En línea]. Disponible en: [https://www.mindray.com/pe/products/anesthesia/wato-ex-35](https://www.mindray.com/pe/products/anesthesia/wato-ex-35).
